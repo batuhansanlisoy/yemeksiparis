@@ -1,3 +1,6 @@
+<script setup lang="ts">
+</script>
+
 <template>
   <div class="flex min-h-screen">
     <!-- Sabit Navbar -->
@@ -9,7 +12,3 @@
     </div>
   </div>
 </template>
-
-<script setup lang="ts">
-import navBar from '~/components/navBar.vue'
-</script>

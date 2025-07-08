@@ -4,6 +4,6 @@
 
 <template>
     <div>
-        <h1>ANASAYFA!</h1>
+        <h1>Rapor!</h1>
     </div>
 </template>
