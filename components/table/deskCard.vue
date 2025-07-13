@@ -16,7 +16,7 @@ function goToOrder() {
 </script>
 
 <template>
-    <UCard class="border-2 border-red-50 shadow-sm">
+    <UCard class="shadow-sm shadow-stone-700">
         <template #header>
             <span class="font-semibold text-sm">
                 Masa Numarası: {{ masaNo }}
